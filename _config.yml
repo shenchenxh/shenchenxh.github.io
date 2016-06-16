@@ -17,3 +17,20 @@ github_username:  shenchenxh
 
 # Build settings
 markdown: kramdown
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - tags
+  layouts:
+    year: index-archive-year
+    month: index-archive
+    tag: index-archive
+  permalinks:
+    year: /:year/
+    month: /:year/:month/
+    tag: /tags/:name.html
+
+gems:
+  - jekyll-archives

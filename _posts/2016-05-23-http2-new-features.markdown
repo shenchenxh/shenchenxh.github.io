@@ -126,9 +126,9 @@ HPACK不仅仅通过索引键值对来降低数据量，同时还会将字符串
 
 相关参考:
 
-*<https://imququ.com/post/http2-new-opportunities-and-challenges.html>
-*<https://imququ.com/post/header-compression-in-http2.html>
-*<https://imququ.com/post/server-push-in-http2.html>
+* <https://imququ.com/post/http2-new-opportunities-and-challenges.html>
+* <https://imququ.com/post/header-compression-in-http2.html>
+* <https://imququ.com/post/server-push-in-http2.html>
 * <http://io.upyun.com/2015/05/13/http2/>
 * <http://jiaolonghuang.github.io/2015/08/16/http2/>
 * <http://www.cnblogs.com/ghj1976/p/4552583.html>
